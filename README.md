@@ -1,6 +1,6 @@
 <h1>Hi, I'm Muhammad! <br/> <a href="https://github.com/Bambabaa">Programmer</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development and Data Analysis Project: </h2>
 
 
 <!--
