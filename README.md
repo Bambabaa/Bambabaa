@@ -1,7 +1,10 @@
-### Hi there 👋
+<h1>Hi, I'm Muhammad! <br/> <a href="https://github.com/Bambabaa">Programmer</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
 
 <!--
-**Bambabaa/Bambabaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
