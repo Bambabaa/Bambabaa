@@ -1,6 +1,14 @@
 <h1>Hi, I'm Muhammad! <br/> <a href="https://github.com/Bambabaa">Programmer</a></h1>
 
-<h2>👨‍💻 Software Development and Data Analysis Project: </h2>
+<h2>👨‍💻 Software Development and Data Analysis </h2>
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img color="white" align="left" alt="Sonko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/mssonko-1372b7239/
+
 
 
 <!--
