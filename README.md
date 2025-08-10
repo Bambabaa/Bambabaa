@@ -13,10 +13,10 @@
 
 
 
-<h1 align="center">Hi there, I'm Bambabaa 👋</h1>
+<h1 align="center">Hi there, I'm Bambabaa 🐊</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZpaXZ5NTd5a3h3aW84aHhqZ3dqZzZlN2Z3eW10OGJzOHF3d2dmYiZlcD12MV9naWZzX3NlYXJjaCZjdD1z/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZpaXZ5NTd5a3h3aW84aHhqZ3dqZzZlN2Z3eW10OGJzOHF3d2dmYiZlcD12MV9naWZzX3NlYXJjaCZjdD1z/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
 </p>
 
 ---
@@ -27,7 +27,8 @@ I'm a passionate developer who enjoys building, learning, and sharing. My journe
 
 - 💡 Always curious and eager to learn new things
 - ⚡ Enjoy working on automation, web development, and open source
-- 🌱 Currently exploring [your current interests, e.g., Rust, AI, DevOps]
+- 📊 Experienced in data science: analyzing datasets, building predictive models, and visualizing insights
+- 🤖 Skilled in Python, Pandas, and machine learning frameworks
 - 🛠️ I like to build tools that make life easier
 
 ---
@@ -54,7 +55,7 @@ I'm a passionate developer who enjoys building, learning, and sharing. My journe
 - 🧩 Enjoy solving interesting problems and sharing solutions
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -82,7 +83,7 @@ I'm a passionate developer who enjoys building, learning, and sharing. My journe
 - [LinkedIn](https://www.linkedin.com/in/your-link)
 - [Twitter](https://twitter.com/your-handle)
 - [Portfolio/Blog](https://your-portfolio.com)
-
+-->
 ---
 
 <details>
