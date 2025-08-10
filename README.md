@@ -89,7 +89,7 @@ I'm a passionate developer who enjoys building, learning, and sharing. My journe
 <details>
   <summary>✨ Fun Facts</summary>
   <ul>
-    <li>My Bad Days Is When I Don't Commit.</li>
+    <li>My Bad Days Is When I Don't Git Commit.</li>
 
   </ul>
 </details>
