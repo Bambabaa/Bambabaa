@@ -89,9 +89,8 @@ I'm a passionate developer who enjoys building, learning, and sharing. My journe
 <details>
   <summary>✨ Fun Facts</summary>
   <ul>
-    <li>I enjoy solving puzzles and challenges.</li>
-    <li>Ask me about my favorite automation hack!</li>
-    <li>Outside coding, I love [your hobby, e.g., hiking, music, gaming].</li>
+    <li>My Bad Days Is When I Don't Commit.</li>
+
   </ul>
 </details>
 
